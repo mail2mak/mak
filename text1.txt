@@ -1,2 +1,2 @@
-this is my frst git file
+this is my frst git 
 this is the 2nd commit
